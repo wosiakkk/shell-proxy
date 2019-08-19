@@ -15,6 +15,8 @@ squid_error='/home/predati/Documentos/admproxy/error.log'                #arquiv
 ######################################################################################################################################
 
 
+### testnado o git bash
+
 menu_url(){
    verificador=$"1"
    while [ $verificador -eq 1 ];
