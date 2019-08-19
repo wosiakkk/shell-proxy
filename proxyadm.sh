@@ -13,7 +13,7 @@ acl_livre='/home/predati/Documentos/admproxy/acl/livre.txt'              #direto
 squid_conf='/etc/squid/squid.conf'                                       #diretorio do squid.conf
 squid_error='/home/predati/Documentos/admproxy/error.log'                #arquivo de dados temporarios para verificar erros de comandos do squid
 ######################################################################################################################################
-
+ #BUG RESOLVIDO
 
 menu_url(){
    verificador=$"1"
