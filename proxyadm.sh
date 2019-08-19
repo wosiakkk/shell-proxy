@@ -14,7 +14,6 @@ squid_conf='/etc/squid/squid.conf'                                       #direto
 squid_error='/home/predati/Documentos/admproxy/error.log'                #arquivo de dados temporarios para verificar erros de comandos do squid
 ######################################################################################################################################
 
-uahsdiuahsudhauishdasd
 
 menu_url(){
    verificador=$"1"
